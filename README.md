@@ -8,10 +8,11 @@ Hi there, I'm Siddhant Kasture 👋
 M.S. Applied Data Science Student | Machine Learning & NLP Enthusiast
 </h3>
 <a href="mailto:sikastur@syr.edu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+Email
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/siddhantkasture" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+LinkedIn
 </a>
 </div>
 
