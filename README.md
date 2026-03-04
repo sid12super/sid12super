@@ -14,6 +14,10 @@ Email
 <a href="https://www.linkedin.com/in/siddhantkasture" target="_blank">
 LinkedIn
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://sid12super.github.io/" target="_blank">
+Portfolio
+</a>
 </div>
 
 👨‍💻 About Me
