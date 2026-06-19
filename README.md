@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Siddhant Kasture 👋</h1>
+  <h1>Hi there, I'm Sid👋</h1>
   <h3>M.S. Applied Data Science @ Syracuse University | ML & NLP Engineer</h3>
 
   <p align="center">
