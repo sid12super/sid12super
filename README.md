@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Data Scientist specializing in machine learning pipelines, natural language processing, and agentic systems. Currently pursuing my Master's in Applied Data Science at Syracuse University (Phi Kappa Phi), I am passionate about turning exploratory analysis into production-ready models and scalable applications. Beyond my academic research, I am actively evaluating and improving model safety as an AI Evaluation Specialist at Handshake AI and leading LLM reasoning research at HyperQuark Intelligence Labs.
+I am a Data Scientist specializing in machine learning pipelines, natural language processing, and agentic systems. I have completed my Master's in Applied Data Science at Syracuse University (Phi Kappa Phi), I am passionate about turning exploratory analysis into production-ready models and scalable applications. Beyond my academic research, I am actively evaluating and improving model safety as an AI Evaluation Specialist at Handshake AI and leading LLM reasoning research at HyperQuark Intelligence Labs.
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, SQL, R, JavaScript/TypeScript
