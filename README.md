@@ -24,8 +24,6 @@ I am a Data Scientist specializing in machine learning pipelines, natural langua
 - **OpenAg Risk Twin:** A public commodity forecasting system featuring a custom dual-PELT regime detection layer.
 - **Betting Edge:** A multi-agent expected-value optimization system powered by a DQN-based predictive engine.
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sid12super&theme=radium&hide_border=true" alt="Siddhant's GitHub Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid12super&theme=radium" alt="Siddhant's Summary Card" />
 </div>
